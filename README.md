@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ardayaldiz07
 - 👀 I’m interested in software
-- 🌱 I’m currently learning python
+- 🌱 I’m currently working with C#
 - 📫 How to reach me ardayaldiz07@gmail.com
 
 <!---
